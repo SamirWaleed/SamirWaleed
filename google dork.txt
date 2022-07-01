@@ -1,0 +1,1 @@
+site:web.com inurl:redir | inurl:url | inurl:redirect | inurl:reurn | inurl:src=http | inurl:r=http
